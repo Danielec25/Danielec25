@@ -1,89 +1,32 @@
-# 👩🏻‍💻 Daniele Chaves
+# Olá! Eu sou a Daniele Santos 👋
 
-**`Analista de Dados`**
+## 🚀 Sobre mim
+- 💼 Trabalho como Estágiaria em Data Science na Bemol Digital
+- 📚 Atualmente estudando Engenharia de Dados, Machine Learning, Power BI e Inteligência Artificial
+- 🎯 Foco em automação de processos e análise de dados
+- 📱 Programação Mobile
+- 💻 Desenvolvimento Front End
+- 🐘 PHP Developer
+- ☁️ Azure Enthusiast
+- 🔥 Databricks Specialist
+- 🤖 Apaixonada por Machine Learning
 
-Me chamo Daniele Chaves Dos Santos, tenho 25 anos e sou natural de Itacoatiara - Amazonas. Concluí o ensino médio no IFAM, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na UFAM. Sou apaixonada por tecnologia.
+## 🌍 Idiomas
+- 🇺🇸 Inglês
+- 🇪🇸 Espanhol
 
----
+## 💻 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Spark](https://img.shields.io/badge/-Apache%20Spark-333333?style=flat&logo=apachespark)
+![n8n](https://img.shields.io/badge/-n8n-333333?style=flat&logo=n8n)
+![Salesforce](https://img.shields.io/badge/-Salesforce-333333?style=flat&logo=salesforce)
+![Databricks](https://img.shields.io/badge/-Databricks-333333?style=flat&logo=databricks)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
 
-### 🤖 Linguagens e Tecnologias
+## 📈 Estatísticas
+![Daniele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielec25&show_icons=true&theme=radical)
 
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<img 
-    align="left" 
-    alt="GitHubs Stats"
-    heigth="200"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=danielec25&show_icons=true&theme=synthwave&include_all_commits_=true&locale=pt-br" 
-/>
-
-<img 
-    align="left" 
-    alt="GitHubs Stats"
-    heigth="200"
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielec25&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-/>
-
+## 📫 Contato
+- Email: danielesantos@bemol.com.br
+- LinkedIn: [Daniele Chaves](www.linkedin.com/in/daniele-chaves-65a859138)
