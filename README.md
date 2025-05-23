@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Daniele Chaves Dos Santos, tenho 25 anos e sou natural de Itacoatira - Amazonas. Concluí o ensino médio no IFAM, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na UFAM. Sou apaixonada por tecnologia.
+Me chamo Daniele Chaves Dos Santos, tenho 25 anos e sou natural de Itacoatiara - Amazonas. Concluí o ensino médio no IFAM, com o curso técnico em informática. Atualmente, estou cursando Sistemas de Informação na UFAM. Sou apaixonada por tecnologia.
 
 ---
 
