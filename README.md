@@ -28,5 +28,6 @@
 ![Daniele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Danielec25&show_icons=true&theme=radical)
 
 ## 📫 Contato
-- Email: danielesantos@bemol.com.br
+- Email corporativo: danielesantos@bemol.com.br
+- Email pessoal: danielychaves55@gmail.com
 - LinkedIn: [Daniele Chaves](www.linkedin.com/in/daniele-chaves-65a859138)
