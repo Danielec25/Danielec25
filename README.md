@@ -4,7 +4,7 @@
 
 🎓 Estudante de Sistemas de Informação | Estagiária em Ciência de Dados na Bemol Digital  
 📊 Apaixonada por dados, automação e soluções com impacto real  
-📍 Itacoatiara/AM | 🌐 [LinkedIn](https://www.linkedin.com/in/daniele-chaves-65a859138) | 📂 [Currículo PDF]([link-do-seu-pdf-no-drive](https://drive.google.com/drive/u/0/folders/1x7wWW-CrI4fSrmdkSh_HWn4AYiMwgv6s))
+📍 Itacoatiara/AM | 🌐 [LinkedIn](https://www.linkedin.com/in/daniele-chaves-65a859138) | 📂 [Currículo PDF](https://drive.google.com/file/d/19RM8ccOINh4ky-wZDK_Mgz0hnMPxj2-9/view?usp=sharing)
 
 ---
 
